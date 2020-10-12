@@ -1,6 +1,7 @@
 public class Cup {
         private String liquidType;
         private double percentFull;
+        private double thingaddedforcommit;
 
         public Cup(String liquidType, double percentFull){
             this.liquidType = liquidType;
